@@ -1,11 +1,6 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Thu Aug 27 01:02:51 2020
 
-@author: Shivam Kolhe
-Project Title: Currency Converter (LIVE)
-API URL: https://free.currencyconverterapi.com/
-"""
+
 
 import streamlit as st
 import streamlit.components.v1 as components
